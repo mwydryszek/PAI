@@ -1,0 +1,55 @@
+header img{
+    width: 200px;
+    height: 200px;
+}
+
+header{
+    background-color: gainsboro;
+}
+
+
+aside form{
+    padding: 50px;
+}
+
+
+aside{
+    background-color: gainsboro;
+    float: left;
+    width: 20%;
+    height: 550px;
+}
+
+.card{
+    float: left;
+    width: 18rem;
+}
+
+aside form input{
+    display: block;
+}
+
+
+main article {
+    float: left;
+    padding: 10px;
+    margin: 70px;
+}
+
+main article img{
+    height: 230px;
+}
+
+
+main{
+    background-color: grey;
+    width: 80%;
+    height: 550px;
+    float: left;
+}
+
+footer{
+    clear: both;
+    position: relative;
+}
+
